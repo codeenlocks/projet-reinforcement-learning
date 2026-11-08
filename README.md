@@ -66,7 +66,3 @@ Voici les chantiers à réaliser pour cette transition :
 * Utiliser `nn.MSELoss` ou `nn.HuberLoss` pour minimiser l'erreur entre la prédiction du réseau et la cible de Bellman.
 * Utiliser un optimiseur comme Adam (`torch.optim.Adam`).
 ```eof
-
-Ce README résume de façon très professionnelle l'avancement actuel de ton travail et dresse la "roadmap" (feuille de route) exacte de ce que nous devrons implémenter en PyTorch pour le DQN. 
-
-C'est un excellent point d'ancrage. Dis-moi si tu souhaites ajuster certains termes ou si on attaque directement la création du réseau de neurones !
