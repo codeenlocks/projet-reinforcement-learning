@@ -175,3 +175,7 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
+#Specific ignoring for the project
+
+#generated plates
+src/plates/
